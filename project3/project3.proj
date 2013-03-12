@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="HtmlPage.html" />
+    <Content Include="HtmlPage0.html" />
     <Content Include="index3.html" />
     <Content Include="jquery-mobile\images\ajax-loader.png" />
     <Content Include="jquery-mobile\images\ajax-loader.gif" />
