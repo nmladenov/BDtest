@@ -1,0 +1,49 @@
+{
+  "ProjectGuid": "18d0bd18-7996-4901-b321-1fd6f539b0e4",
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "AppIdentifier": "com.telerik.project3",
+  "ProvisionName": "",
+  "ProjectName": "project3",
+  "IsRunnable": "true",
+  "TemplateAppName": "Cordova240",
+  "AndroidPermissions": [
+    "android.permission.CAMERA",
+    "android.permission.VIBRATE",
+    "android.permission.ACCESS_COARSE_LOCATION",
+    "android.permission.ACCESS_FINE_LOCATION",
+    "android.permission.ACCESS_LOCATION_EXTRA_COMMANDS",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.INTERNET",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.RECORD_AUDIO",
+    "android.permission.MODIFY_AUDIO_SETTINGS",
+    "android.permission.READ_CONTACTS",
+    "android.permission.WRITE_CONTACTS",
+    "android.permission.WRITE_EXTERNAL_STORAGE",
+    "android.permission.ACCESS_NETWORK_STATE"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "BundleVersion": "1.0",
+  "iOSStatusBarStyle": "Default",
+  "projectVersion": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "AndroidVersionCode": "1",
+  "AndroidHardwareAcceleration": "false",
+  "TargetFrameworkIdentifier": "",
+  "TargetFrameworkProfile": "",
+  "TargetFrameworkVersion": "",
+  "ProjectFileName": "",
+  "Framework": "Cordova",
+  "DisplayName": "",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.project3",
+  "WP8PublisherID": "{481cf50c-c6e7-4887-8555-777d9f7c1efb}",
+  "WP8ProductID": "{19e35d0b-0b8a-4f80-b70a-6f995a1c0759}"
+}
